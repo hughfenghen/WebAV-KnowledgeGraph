@@ -18,7 +18,13 @@ _你也可以通过 issue 推荐内容（文章、工具、开源项目）、提
 
 ## Web API 图谱
 
-https://www.processon.com/view/link/661b519329eb742733da24fb?cid=661b50541c0cb632e514c499
+![image](https://github.com/hughfenghen/WebAV-KnowledgeGraph/assets/3307051/f397588f-c335-4585-ab7d-b8b787c02805)
+
+
+由于 API 太多，为了不干扰阅读，侧重各个模块间的协作（数据转换）对象，许多模块内 API 并没有列出；  
+比如：你的工作重点在音频处理，这张图能看到**音频数据能从哪里来、能到哪里去**，数据具体怎么处理应该仔细阅读 Web Audio API。
+
+[完整图谱](https://www.processon.com/view/link/661b519329eb742733da24fb?cid=661b50541c0cb632e514c499)
 
 ## TODO
 
