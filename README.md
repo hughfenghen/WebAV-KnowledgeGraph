@@ -28,15 +28,15 @@ _有人反馈初看图谱感觉很乱，笔者已经尽量简化，若有更好�
 
 **音视频文件处理**
 
-1. 图中可发现是用 `WebCodecs API` 能解析处理或合成输出音视频文件（封装/接封装需借助第三方库）
-2. WebCodecs 最终能得到代表原始音（`AudioData`）视（`VideoFrame`）频数据的对象
-3. 若需对音视频内容进行处理（比如图像滤镜或声音变调）则需参考其他可利用 API（观察箭头指向）
+1. 图中可发现使用 `WebCodecs API` 能解析处理或合成输出音视频文件（封装/接封装需借助第三方库）
+2. WebCodecs 最终能获得原始音（`AudioData`）视（`VideoFrame`）频数据对象
+3. 若需对音视频内容进行处理（如图像滤镜或声音变调）则需参考其他可利用 API（观察箭头指向）
 
 **音频处理**
 
 1. 音频处理的核心模块是 `AudioContext`
 2. 观察箭头可发现，能通过网络远程加载数据、或将 `html` 的 `video/audio` 标签作为输入源
-3. 处理后直接渲染到扬声器或 html 标签中
+3. 处理之后将音频数据渲染到扬声器或 html 标签中
 4. 音频处理相关的 API 被隐藏了，这里只能看到跟 `AudioNode` 相关，感兴趣的同学可进一步深究
 
 **低延迟音视频通信**
@@ -74,7 +74,7 @@ _有人反馈初看图谱感觉很乱，笔者已经尽量简化，若有更好�
 ## 文章
 
 - 风痕的博客 [Web 音视频入门系列](https://hughfenghen.github.io/tag/WebCodecs/)
-- 张鑫旭博客 [audio](https://www.zhangxinxu.com/wordpress/tag/audio/), [video](https://www.zhangxinxu.com/wordpress/tag/video/)
+- 张鑫旭的博客标签 [audio](https://www.zhangxinxu.com/wordpress/tag/audio/), [video](https://www.zhangxinxu.com/wordpress/tag/video/)
 - [Waveforms](https://pudding.cool/2018/02/waveforms/)：可视化、交互式探索声音的形状
 - [Learning Synths](https://learningsynths.ableton.com/en/get-started)：可视化学习音乐合成
 - [Video processing with WebCodecs](https://developer.chrome.com/docs/web-platform/best-practices/webcodecs)
