@@ -48,9 +48,9 @@ _有人反馈初看图谱感觉很乱，笔者已经尽量简化，若有更好�
 
 ### 图谱概览
 
-<img width="1138" src="https://github.com/hughfenghen/WebAV-KnowledgeGraph/assets/3307051/bc722748-ec7e-4f32-a60b-7d165be3aad6">
+![Web 音视频](https://github.com/hughfenghen/WebAV-KnowledgeGraph/assets/3307051/e26152d9-ddc9-4571-a7bb-ccc8c1d33450)
 
-## SDK & DEMO
+## SDK & DEMO 
 
 在 Web 平台处理（合成、剪辑、导出）音视频数据开源项目。
 
