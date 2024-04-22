@@ -11,7 +11,7 @@
 
 ## Web API 图谱
 
-[完整图谱](https://www.processon.com/view/link/661b519329eb742733da24fb?cid=661b50541c0cb632e514c499)
+[音视频 Web API 图谱](https://www.processon.com/view/link/661b519329eb742733da24fb?cid=661b50541c0cb632e514c499)
 
 为了不干扰阅读，侧重各个模块间的协作（数据转换）对象，过多的模块内 API 并没有列出。  
 _有人反馈初看图谱感觉很乱，笔者已经尽量简化，若有更好的建议可以提出来。_
@@ -44,7 +44,7 @@ _有人反馈初看图谱感觉很乱，笔者已经尽量简化，若有更好�
 3. `RTCPeerConnection` 下的 `getReceivers` 可以从远端接收流，输出到 html 标签（video/canvas）播放出来
 4. 若发送前、接收后需要对流数据加工处理（如移除视频背景、降噪），则可利用 `MediaStreamTrackProcessor, MediaStreamTrackGenerator` 相关 API
 
-### 图谱概览
+### 图谱预览
 
 ![Web 音视频](https://github.com/hughfenghen/WebAV-KnowledgeGraph/assets/3307051/e26152d9-ddc9-4571-a7bb-ccc8c1d33450)
 
