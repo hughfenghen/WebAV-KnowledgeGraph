@@ -64,7 +64,7 @@ _有人反馈初看图谱感觉很乱，笔者已经尽量简化，若有更好�
 - [opfs-tools](https://github.com/hughfenghen/opfs-tools): A simple, high-performance, and comprehensive file system API running in the browser, built on OPFS. 在浏览器中运行的简单、高性能、完备的文件系统 API，基于 OPFS 构建。[DEMO](https://hughfenghen.github.io/opfs-tools-explorer/)
   - 音视频开发经常需要高频读写文件或处理大型文件，可能需要 OPFS API 来提高性能、降低内存消耗。
 
-官方 DEMO
+W3C 官方 DEMO
 
 - [WebCodecs samples](https://w3c.github.io/webcodecs/samples/)
 - [WebRTC samples](https://webrtc.github.io/samples)
