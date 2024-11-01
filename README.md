@@ -101,10 +101,10 @@ _音视频领域还有许多名词概念，读者逐渐深入可自行搜索或�
 
 能在浏览器中运行的音视频产品。
 
-- [剪映网页版](https://www.capcut.cn/web)：字节的视频剪辑产品
+- [Clipchamp](https://app.clipchamp.com/)
+- [快手云剪](https://onvideo.kuaishou.com/v2/profile)
 - [Scenery.video](https://scenery.video)：多人协同视频剪辑
 - [Video tools. Online](https://clideo.com/)
-- [花影](https://github.com/hughfenghen/bloom-shadow)：在浏览器中运行的录屏工具，可用于视频课程制作、直播推流工作台；基于 WebAV 实现
 
 ## 后记
 
