@@ -4,6 +4,7 @@
 
 ## 动机
 
+
 音视频技术在 Web 平台应用有限，资料也相对较少，Web 平台处理音视频的基础能力已具备，但未被大部分从业人员所熟知。
 
 由于涉及的 Web API 非常多，所以先整理一份音视频相关的 API 知识图谱，降低在 Web 平台开发音视频应用的门槛；  
@@ -101,18 +102,21 @@ _音视频领域还有许多名词概念，读者逐渐深入可自行搜索或�
 
 能在浏览器中运行的音视频产品。
 
-- [Clipchamp](https://app.clipchamp.com/)
+- [ZingAI.video](https://zingai.video/)：大胆创新的 AI 口播视频剪辑（*笔者独立开发的产品*）
 - [快手云剪](https://onvideo.kuaishou.com/v2/profile)
-- [Scenery.video](https://scenery.video)：多人协同视频剪辑
 - [Video tools. Online](https://clideo.com/)
+- [开拍](https://www.kaipai.com)：网感视频制作产品
+- [Submagic](https://www.submagic.co/)：国外的网感是产品制作产品
+- [Clipchamp](clipchamp.com)：传统、成熟、完善的视频编辑工具
+<!-- - [花影](https://github.com/hughfenghen/bloom-shadow)：在浏览器中运行的录屏工具，可用于视频课程制作、直播推流工作台；基于 WebAV 实现的实验型项目 -->
 
 ## 后记
 
-笔者花名**风痕**，大概做了 4 年 Web 音视频相关产品，2023 年初开始重点投入 WebCodecs，看好该技术应用前景。  
+笔者花名**风痕**，在 B 站做了几年的 Web 播放器相关开发，2023 年初开始重点投入 WebCodecs，看好该技术应用前景。  
 所以创建了当前项目，希望为 Web 音视频技术的应用与实践贡献力量。  
 若有纰漏，望请斧正。
 
-此外，笔者还在积极维护 [WebAV](https://github.com/hughfenghen/WebAV)、[opfs-tools](https://github.com/hughfenghen/opfs-tools) 两个音视频相关项目，[个人博客](https://hughfenghen.github.io/)也会长期更新 Web 音视频相关文章。
+此外，笔者还在积极维护 [WebAV](https://github.com/WebAV-Tech/WebAV)、[opfs-tools](https://github.com/hughfenghen/opfs-tools) 两个音视频相关项目，[个人博客](https://hughfenghen.github.io/)也会长期更新 Web 音视频相关文章。
 
 _若你对该项目的内容感兴趣，可 Star 或转发给需要的同学。_  
 _你也可以通过 issue 推荐内容（SDK、文章、工具）、提交反馈，与笔者一起完善该项目。_
